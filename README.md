@@ -1,6 +1,6 @@
 # Sensors
 Total 6 sensors are available here.
-# Contains
+# Content
 * Accelerometer sensor
 * Proximity sensor
 * Temperature sensor
@@ -8,5 +8,5 @@ Total 6 sensors are available here.
 * Gyroscope sensor
 * Magnetometer sensor
 
-# Demostration
+# Demonstration
 ![](https://media.giphy.com/media/LUnWd9kXZlCwaQkO3r/giphy.gif)
